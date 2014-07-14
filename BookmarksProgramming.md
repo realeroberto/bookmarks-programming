@@ -14,6 +14,10 @@
 
  * [Resources for functional programming](http://www.readscheme.org/)
 
+## Python
+
+ * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+
 ## Scheme
 
  * [Bibliography of Scheme-related research](http://library.readscheme.org/)
