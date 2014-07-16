@@ -8,6 +8,10 @@
 
  * [C Coding Style guidelines](http://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 
+### Notable Libraries
+
+ * [Jansson, a C library for encoding, decoding and manipulating JSON data](http://www.digip.org/jansson/)
+
 ## C++
 
 ### Coding Style
