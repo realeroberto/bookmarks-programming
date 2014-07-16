@@ -32,6 +32,10 @@
 
 ## Python
 
+### Tutorials
+
+ * [Hitchhiker's Guide to Python](https://github.com/kennethreitz/python-guide)
+
 ### Coding Style
 
  * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
