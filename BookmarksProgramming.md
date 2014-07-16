@@ -27,6 +27,8 @@
 
 ### Packaging
 
+ * [How To Package Your Python Code](http://www.scotttorborg.com/python-packaging/)
+ * [The Package Dependency Blues](http://blog.miguelgrinberg.com/post/the-package-dependency-blues)
  * [How to submit a package to PyPI](http://peterdowns.com/posts/first-time-with-pypi.html)
 
 ## Scheme
