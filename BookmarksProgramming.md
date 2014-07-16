@@ -2,6 +2,18 @@
 
  * [Better Bash Scripting in 15 Minutes](https://gist.github.com/jonschoning/10952933)
 
+## C
+
+### Coding Style
+
+ * [C Coding Style guidelines](http://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
+
+## C++
+
+### Coding Style
+
+ * [C++ Coding Style guidelines](http://www.possibility.com/Cpp/CppCodingStandard.html)
+
 ## Clojure
 
  * [Clojure Koans: a set of exercises for learning Clojure](https://github.com/jonschoning/clojure-koans)
