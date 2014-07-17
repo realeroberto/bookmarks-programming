@@ -1,5 +1,9 @@
 # bookmarks-programming
 
+## APL
+
+ * [GNU APL](http://www.gnu.org/software/apl/)
+
 ## Bash
 
  * [Better Bash Scripting in 15 Minutes](https://gist.github.com/jonschoning/10952933)
