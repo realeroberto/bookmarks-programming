@@ -42,6 +42,10 @@
 
  * [Hitchhiker's Guide to Python](https://github.com/kennethreitz/python-guide)
 
+### Standard Library
+
+ * [Python Module of the Week: a tour of the Python standard library through short examples](http://pymotw.com/)
+
 ### Coding Style
 
  * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
