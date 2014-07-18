@@ -42,6 +42,8 @@
 
  * [Resources for functional programming](http://www.readscheme.org/)
 
+## Lisp
+
 ## Python
 
 ### Tutorials
