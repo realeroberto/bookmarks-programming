@@ -2,6 +2,10 @@
 
 ## APL
 
+ * [APL Wiki](http://aplwiki.com/)
+ * [Vector – the journal of the British APL Association](https://sites.google.com/site/baavector/)
+ * [Peter Keller's APL page](http://pages.cs.wisc.edu/~psilord/apl/apl.html)
+
 ### Implementations
 
  * [GNU APL](http://www.gnu.org/software/apl/)
