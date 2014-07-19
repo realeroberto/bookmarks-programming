@@ -69,6 +69,11 @@
  * [The Package Dependency Blues](http://blog.miguelgrinberg.com/post/the-package-dependency-blues)
  * [How to submit a package to PyPI](http://peterdowns.com/posts/first-time-with-pypi.html)
 
+### Notable Packages
+
+ * [An astonishingly awesome application argument helper](https://github.com/wbolster/aaargh)
+ * [mando: CLI interfaces for humans](https://github.com/rubik/mando)
+
 ## Scheme
 
  * [Bibliography of Scheme-related research](http://library.readscheme.org/)
