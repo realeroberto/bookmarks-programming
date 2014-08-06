@@ -16,6 +16,8 @@
 
 ## C
 
+ * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
+
 ### Coding Style
 
  * [C Coding Style guidelines](http://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
