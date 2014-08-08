@@ -54,6 +54,8 @@
 
 ### Core Topics
 
+ * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
+
 ### Standard Library
 
  * [Python Module of the Week: a tour of the Python standard library through short examples](http://pymotw.com/)
