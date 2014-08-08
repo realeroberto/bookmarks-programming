@@ -52,6 +52,8 @@
 
  * [Hitchhiker's Guide to Python](https://github.com/kennethreitz/python-guide)
 
+### Core Topics
+
 ### Standard Library
 
  * [Python Module of the Week: a tour of the Python standard library through short examples](http://pymotw.com/)
