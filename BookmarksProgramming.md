@@ -16,6 +16,7 @@
 
 ## C
 
+ * [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
  * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 
 ### Coding Style
