@@ -86,6 +86,7 @@
 
  * [An astonishingly awesome application argument helper](https://github.com/wbolster/aaargh)
  * [mando: CLI interfaces for humans](https://github.com/rubik/mando)
+ * [Sphinx, a Python documentation generator](http://sphinx-doc.org/)
 
 ## Scheme
 
