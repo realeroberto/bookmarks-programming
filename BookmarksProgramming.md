@@ -35,6 +35,8 @@
 
 ## Caml
 
+ * [The Caml Language](http://caml.inria.fr/)
+
 ## Clojure
 
  * [Clojure Koans: a set of exercises for learning Clojure](https://github.com/jonschoning/clojure-koans)
