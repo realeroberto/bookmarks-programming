@@ -44,6 +44,10 @@
 
  * [Resources for functional programming](http://www.readscheme.org/)
 
+## JavaScript
+
+ * [JavaScript Garden,  a collection of documentation about the most quirky parts of the language](http://bonsaiden.github.io/JavaScript-Garden/)
+
 ## Lisp
 
 ## Python
