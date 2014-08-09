@@ -55,6 +55,8 @@
 ### Tutorials
 
  * [Hitchhiker's Guide to Python](https://github.com/kennethreitz/python-guide)
+ * [Dive Into Python](http://www.diveintopython.net/)
+ * [Dive Into Python 3](http://www.diveintopython3.net/)
 
 ### Core Topics
 
