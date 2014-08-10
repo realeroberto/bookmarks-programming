@@ -98,3 +98,4 @@
 
 ## Unix shell
 
+ * [Object-oriented shell for *nix, question on Stack Exchange](http://unix.stackexchange.com/questions/4495/object-oriented-shell-for-nix)
