@@ -95,3 +95,6 @@
 ## Scheme
 
  * [Bibliography of Scheme-related research](http://library.readscheme.org/)
+
+## Unix shell
+
