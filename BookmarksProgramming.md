@@ -57,6 +57,8 @@
 
 ## Node.js
 
+* [Mastering Node.js, an Open Source Node eBook](http://visionmedia.github.io/masteringnode/)
+
 ## Python
 
 ### Tutorials
