@@ -55,6 +55,8 @@
 
  * [Resources for functional programming](http://www.readscheme.org/)
 
+### Haskell
+
 ### JavaScript
 
  * [JavaScript Garden,  a collection of documentation about the most quirky parts of the language](http://bonsaiden.github.io/JavaScript-Garden/)
