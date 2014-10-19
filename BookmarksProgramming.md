@@ -57,6 +57,8 @@
 
 ### Haskell
 
+* [Write Yourself a Scheme in 48 Hours, An Introduction to Haskell through Example](http://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf)
+
 ### JavaScript
 
  * [JavaScript Garden,  a collection of documentation about the most quirky parts of the language](http://bonsaiden.github.io/JavaScript-Garden/)
