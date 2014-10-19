@@ -4,6 +4,12 @@
 
 ### User Interface & User Experience
 
+## Paradigms
+
+### Functional programming
+
+ * [Resources for functional programming](http://www.readscheme.org/)
+
 ## Languages
 
 ### APL
@@ -50,10 +56,6 @@
 ### Erlang
 
  * [Comprehensive collection of links for Erlang developers](https://github.com/0xAX/erlang-bookmarks/blob/master/ErlangBookmarks.md)
-
-### Functional programming
-
- * [Resources for functional programming](http://www.readscheme.org/)
 
 ### Haskell
 
