@@ -63,6 +63,8 @@
 
 ### Lisp
 
+ * [Thread Interfaces for Common Lisp](http://www.cons.org/cracauer/lisp-threads.html)
+
 ### Node.js
 
 * [Mastering Node.js, an Open Source Node eBook](http://visionmedia.github.io/masteringnode/)
