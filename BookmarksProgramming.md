@@ -84,6 +84,7 @@
 #### Standard Library
 
  * [Python Module of the Week: a tour of the Python standard library through short examples](http://pymotw.com/)
+ * [The ever useful and neat subprocess module](http://sharats.me/the-ever-useful-and-neat-subprocess-module.html)
 
 #### Coding Style
 
