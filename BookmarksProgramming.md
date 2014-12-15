@@ -135,3 +135,7 @@
 #### Theory of Revision Control
 
  * [Branching and Merging Primer](http://msdn.microsoft.com/en-us/library/aa730834(VS.80).aspx)
+
+#### Visual SourceSafe
+
+ * [Source Control: Anything But SourceSafe](http://blog.codinghorror.com/source-control-anything-but-sourcesafe/)
