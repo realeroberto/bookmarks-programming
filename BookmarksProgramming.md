@@ -1,14 +1,17 @@
 # bookmarks-programming
 
+
 ## Design
 
 ### User Interface & User Experience
+
 
 ## Paradigms
 
 ### Functional programming
 
  * [Resources for functional programming](http://www.readscheme.org/)
+
 
 ## Languages
 
@@ -123,3 +126,6 @@
  * [Object-oriented shell for *nix, question on Stack Exchange](http://unix.stackexchange.com/questions/4495/object-oriented-shell-for-nix)
  * [Better Bash Scripting in 15 Minutes](https://gist.github.com/jonschoning/10952933)
  * [Abortion of shell scripts and proper handling of signals](http://www.cons.org/cracauer/sigint.html)
+
+
+## Tools
