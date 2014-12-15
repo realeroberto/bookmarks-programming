@@ -112,6 +112,8 @@
 
 #### Miscellanea
 
+ * [How do I correctly clean up a Python object?](http://stackoverflow.com/questions/865115/how-do-i-correctly-clean-up-a-python-object)
+
 ### Scheme
 
  * [Bibliography of Scheme-related research](http://library.readscheme.org/)
