@@ -131,3 +131,7 @@
 ## Tools
 
 ### Revision Control
+
+#### Theory of Revision Control
+
+ * [Branching and Merging Primer](http://msdn.microsoft.com/en-us/library/aa730834(VS.80).aspx)
