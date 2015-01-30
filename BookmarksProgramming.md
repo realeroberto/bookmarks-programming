@@ -58,6 +58,7 @@
 
 ### Haskell
 
+* [Real World Haskell](http://book.realworldhaskell.org/)
 * [Write Yourself a Scheme in 48 Hours, An Introduction to Haskell through Example](http://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf)
 
 ### JavaScript
