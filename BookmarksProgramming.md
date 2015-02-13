@@ -75,6 +75,8 @@
 
 ### PL/SQL
 
+* [PL/SQL Practices: On Exceptions and Rules](http://www.oracle.com/technetwork/issue-archive/2008/08-jul/o48plsql-101224.html)
+
 ### Python
 
 #### Tutorials
