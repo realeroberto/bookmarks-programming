@@ -84,6 +84,7 @@
  * [Hitchhiker's Guide to Python](https://github.com/kennethreitz/python-guide)
  * [Dive Into Python](http://www.diveintopython.net/)
  * [Dive Into Python 3](http://www.diveintopython3.net/)
+ * [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
 
 #### Core Topics
 
@@ -121,6 +122,8 @@
 #### Miscellanea
 
  * [How do I correctly clean up a Python object?](http://stackoverflow.com/questions/865115/how-do-i-correctly-clean-up-a-python-object)
+ * [Elegant ways to support equivalence (“equality”) in Python classes](http://stackoverflow.com/questions/390250/)
+ * [Python object.__repr__(self) should be an expression?](http://stackoverflow.com/questions/452300/)
 
 ### Scheme
 
