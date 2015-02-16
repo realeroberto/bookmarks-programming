@@ -121,7 +121,7 @@
 
 #### Miscellanea
 
- * [How do I correctly clean up a Python object?](http://stackoverflow.com/questions/865115/how-do-i-correctly-clean-up-a-python-object)
+ * [How do I correctly clean up a Python object?](http://stackoverflow.com/questions/865115/)
  * [Elegant ways to support equivalence (“equality”) in Python classes](http://stackoverflow.com/questions/390250/)
  * [Python object.__repr__(self) should be an expression?](http://stackoverflow.com/questions/452300/)
 
