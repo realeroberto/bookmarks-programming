@@ -123,7 +123,7 @@
 
  * [How do I correctly clean up a Python object?](http://stackoverflow.com/questions/865115/)
  * [Elegant ways to support equivalence (“equality”) in Python classes](http://stackoverflow.com/questions/390250/)
- * [Python object.__repr__(self) should be an expression?](http://stackoverflow.com/questions/452300/)
+ * [Python object.\_\_repr\_\_(self) should be an expression?](http://stackoverflow.com/questions/452300/)
 
 ### Scheme
 
