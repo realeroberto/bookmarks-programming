@@ -3,6 +3,8 @@
 
 ## High-Level Topics
 
+* [Pseudocode 101](https://courses.edx.org/c4x/MITx/6.00.1x_5/asset/files_ps04_files_WhyPseudocode.pdf) [pdf]
+
 
 ## Design
 
