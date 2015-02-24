@@ -152,6 +152,7 @@
 #### Subversion
 
  * [Version Control with Subversion](http://svnbook.red-bean.com/)
+ * [What do “branch”, “tag” and “trunk” mean in Subversion repositories?](http://stackoverflow.com/questions/16142/)
 
 #### Visual SourceSafe
 
