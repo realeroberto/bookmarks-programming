@@ -106,6 +106,7 @@
  * [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
  * [PEP 257 - Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
  * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+ * [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 
 #### Decorators
 
