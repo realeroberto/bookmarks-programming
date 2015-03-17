@@ -90,6 +90,7 @@
  * [Dive Into Python](http://www.diveintopython.net/)
  * [Dive Into Python 3](http://www.diveintopython3.net/)
  * [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
+ * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/)
 
 #### Core Topics
 
